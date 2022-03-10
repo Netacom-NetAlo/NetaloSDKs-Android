@@ -168,11 +168,11 @@
         {
           "name": "NetAloFull-3.0.3.aar",
           "url": "NetAloFull-3.0.3.aar",
-          "size": 9772643,
-          "sha512": "de885eb3d5658232c8cb76d79546ab6dd792888cc20ef46bc3b3fcb90a25295efc90f55f90e683b683c354bbbd5ed4bb13c1ed67fc364d26bf31e8896152673d",
-          "sha256": "d7e8ae5c42af85fdc57e7618d29c9e3842f375153c16b6ddf61c3bb5abc4352f",
-          "sha1": "322cc77f9713bf9d999907843707c0322677f60a",
-          "md5": "ba743533f677f704de7ceaf918d61baa"
+          "size": 9781884,
+          "sha512": "f9c8c7dc84feb0c2b38b533d5de7561975d197d3882c1ad78160962303915bfe6462fc0c82f073099e0e16564612c4eecb8225a3bd05323c5d61d84991ee80af",
+          "sha256": "9b68ec15db77d65e12f694aa22a3539cd451377057132dfd535822e6e6b99781",
+          "sha1": "bfeaec7cf9a8a72fd69f462b5e0b9c5cea40e613",
+          "md5": "c4f277c817a1db22a55a6144ca30c100"
         }
       ]
     },
@@ -358,11 +358,11 @@
         {
           "name": "NetAloFull-3.0.3.aar",
           "url": "NetAloFull-3.0.3.aar",
-          "size": 9772643,
-          "sha512": "de885eb3d5658232c8cb76d79546ab6dd792888cc20ef46bc3b3fcb90a25295efc90f55f90e683b683c354bbbd5ed4bb13c1ed67fc364d26bf31e8896152673d",
-          "sha256": "d7e8ae5c42af85fdc57e7618d29c9e3842f375153c16b6ddf61c3bb5abc4352f",
-          "sha1": "322cc77f9713bf9d999907843707c0322677f60a",
-          "md5": "ba743533f677f704de7ceaf918d61baa"
+          "size": 9781884,
+          "sha512": "f9c8c7dc84feb0c2b38b533d5de7561975d197d3882c1ad78160962303915bfe6462fc0c82f073099e0e16564612c4eecb8225a3bd05323c5d61d84991ee80af",
+          "sha256": "9b68ec15db77d65e12f694aa22a3539cd451377057132dfd535822e6e6b99781",
+          "sha1": "bfeaec7cf9a8a72fd69f462b5e0b9c5cea40e613",
+          "md5": "c4f277c817a1db22a55a6144ca30c100"
         }
       ]
     }
