@@ -91,11 +91,11 @@
         {
           "name": "NetAloLite-Dev-2.3.4.aar",
           "url": "NetAloLite-Dev-2.3.4.aar",
-          "size": 4066679,
-          "sha512": "9f9a6dee7291cd0bb902c0c3eb2008ff4eb97d2a6eb1a94052ecf0f2d220065f9cba8fab15e6f7f9af60987ceedd16bd6150e900e23453f51796d99b5cecac1b",
-          "sha256": "61d98811e9e05c13de0936c3fb38c6095e6e98d6f1c014bf1e6587860d346410",
-          "sha1": "b1d7a0232ca43ced00f6da408fe4496cb984d0e4",
-          "md5": "67315f9ba7fb75a8d4136c523459cc1c"
+          "size": 4066671,
+          "sha512": "b3c6f6a8efbac8b7e445476fe507602041920433bf9591b4fd8b48767a6b0938a886d19d124cfc07665947e985b8c5f54bfd8489c150c5f25d0fd59b539bc5de",
+          "sha256": "b337c5d810eb89a745df40ba78d9d25d5cf166723c4ef71863a18d56632bc22d",
+          "sha1": "763301dbd990d4963976a6bae1746a44c00b9084",
+          "md5": "4e8a4c26e060a43f3aa3db5d8d46ea9f"
         }
       ]
     },
@@ -218,11 +218,11 @@
         {
           "name": "NetAloLite-Dev-2.3.4.aar",
           "url": "NetAloLite-Dev-2.3.4.aar",
-          "size": 4066679,
-          "sha512": "9f9a6dee7291cd0bb902c0c3eb2008ff4eb97d2a6eb1a94052ecf0f2d220065f9cba8fab15e6f7f9af60987ceedd16bd6150e900e23453f51796d99b5cecac1b",
-          "sha256": "61d98811e9e05c13de0936c3fb38c6095e6e98d6f1c014bf1e6587860d346410",
-          "sha1": "b1d7a0232ca43ced00f6da408fe4496cb984d0e4",
-          "md5": "67315f9ba7fb75a8d4136c523459cc1c"
+          "size": 4066671,
+          "sha512": "b3c6f6a8efbac8b7e445476fe507602041920433bf9591b4fd8b48767a6b0938a886d19d124cfc07665947e985b8c5f54bfd8489c150c5f25d0fd59b539bc5de",
+          "sha256": "b337c5d810eb89a745df40ba78d9d25d5cf166723c4ef71863a18d56632bc22d",
+          "sha1": "763301dbd990d4963976a6bae1746a44c00b9084",
+          "md5": "4e8a4c26e060a43f3aa3db5d8d46ea9f"
         }
       ]
     }
