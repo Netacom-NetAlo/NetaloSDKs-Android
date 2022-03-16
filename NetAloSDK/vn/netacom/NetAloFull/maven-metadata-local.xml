@@ -3,11 +3,11 @@
   <groupId>vn.netacom</groupId>
   <artifactId>NetAloFull</artifactId>
   <versioning>
-    <latest>3.0.4</latest>
-    <release>3.0.4</release>
+    <latest>3.0.5</latest>
+    <release>3.0.5</release>
     <versions>
-      <version>3.0.4</version>
+      <version>3.0.5</version>
     </versions>
-    <lastUpdated>20220311125136</lastUpdated>
+    <lastUpdated>20220316063912</lastUpdated>
   </versioning>
 </metadata>
