@@ -168,11 +168,11 @@
         {
           "name": "NetAloFull-2.3.49.aar",
           "url": "NetAloFull-2.3.49.aar",
-          "size": 9624109,
-          "sha512": "ce4ceac80c3480fc6b0a879017d0636c60faf47943a04337c41818265869a733d92b9156afa57636f8939a1ce90394772691bc910f6c2d0e7840d09276531ebc",
-          "sha256": "dc3366f6f974160fc32de809e4270733e628c4d0f29b38b594fc175c64951319",
-          "sha1": "88c607bd79cd35927fd0585104bf4fa1060d94cc",
-          "md5": "ceb87a65f9b4affaa38b2045b85c8055"
+          "size": 9636489,
+          "sha512": "63ed1a79d84b7812ee1654b6c88cd3a714ee039d793e0a770296bb99165f022c733f36c62363e96e726cd91e37cba8b9fed534e115a6ebe70fd0dc53bb3dfa2e",
+          "sha256": "f17a135f249b4d2c301d65ee639e9c6a5d2f120e9d68823a75aa37abeff06050",
+          "sha1": "15bf64f988bf52b7aee8e6ae07d5e889af571a7b",
+          "md5": "bb4fc418a3bf8e9c0fe0b9ce094c4205"
         }
       ]
     },
@@ -358,11 +358,11 @@
         {
           "name": "NetAloFull-2.3.49.aar",
           "url": "NetAloFull-2.3.49.aar",
-          "size": 9624109,
-          "sha512": "ce4ceac80c3480fc6b0a879017d0636c60faf47943a04337c41818265869a733d92b9156afa57636f8939a1ce90394772691bc910f6c2d0e7840d09276531ebc",
-          "sha256": "dc3366f6f974160fc32de809e4270733e628c4d0f29b38b594fc175c64951319",
-          "sha1": "88c607bd79cd35927fd0585104bf4fa1060d94cc",
-          "md5": "ceb87a65f9b4affaa38b2045b85c8055"
+          "size": 9636489,
+          "sha512": "63ed1a79d84b7812ee1654b6c88cd3a714ee039d793e0a770296bb99165f022c733f36c62363e96e726cd91e37cba8b9fed534e115a6ebe70fd0dc53bb3dfa2e",
+          "sha256": "f17a135f249b4d2c301d65ee639e9c6a5d2f120e9d68823a75aa37abeff06050",
+          "sha1": "15bf64f988bf52b7aee8e6ae07d5e889af571a7b",
+          "md5": "bb4fc418a3bf8e9c0fe0b9ce094c4205"
         }
       ]
     }
