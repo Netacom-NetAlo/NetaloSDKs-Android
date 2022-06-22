@@ -4,66 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acfba27a-9562-4f8c-b86e-3e01b6f45215" name="Default Changelist" comment="update version 2.3.46.">
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat-Dev/2.3.45/NetAloBaseChat-Dev-2.3.45-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat-Dev/2.3.45/NetAloBaseChat-Dev-2.3.45-sources.jar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat-Dev/2.3.45/NetAloBaseChat-Dev-2.3.45.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat-Dev/2.3.45/NetAloBaseChat-Dev-2.3.45.aar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat-Dev/2.3.45/NetAloBaseChat-Dev-2.3.45.module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat-Dev/2.3.45/NetAloBaseChat-Dev-2.3.45.module.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat-Dev/2.3.45/NetAloBaseChat-Dev-2.3.45.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat-Dev/2.3.45/NetAloBaseChat-Dev-2.3.45.pom.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat/2.3.45/NetAloBaseChat-2.3.45-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat/2.3.45/NetAloBaseChat-2.3.45-sources.jar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat/2.3.45/NetAloBaseChat-2.3.45.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat/2.3.45/NetAloBaseChat-2.3.45.aar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat/2.3.45/NetAloBaseChat-2.3.45.module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat/2.3.45/NetAloBaseChat-2.3.45.module.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat/2.3.45/NetAloBaseChat-2.3.45.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat/2.3.45/NetAloBaseChat-2.3.45.pom.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull-Dev/2.3.45/NetAloFull-Dev-2.3.45-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull-Dev/2.3.45/NetAloFull-Dev-2.3.45-sources.jar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull-Dev/2.3.45/NetAloFull-Dev-2.3.45.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull-Dev/2.3.45/NetAloFull-Dev-2.3.45.aar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull-Dev/2.3.45/NetAloFull-Dev-2.3.45.module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull-Dev/2.3.45/NetAloFull-Dev-2.3.45.module.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull-Dev/2.3.45/NetAloFull-Dev-2.3.45.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull-Dev/2.3.45/NetAloFull-Dev-2.3.45.pom.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull/2.3.45/NetAloFull-2.3.45-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull/2.3.45/NetAloFull-2.3.45-sources.jar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull/2.3.45/NetAloFull-2.3.45.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull/2.3.45/NetAloFull-2.3.45.aar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull/2.3.45/NetAloFull-2.3.45.module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull/2.3.45/NetAloFull-2.3.45.module.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull/2.3.45/NetAloFull-2.3.45.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull/2.3.45/NetAloFull-2.3.45.pom.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite-Dev/2.3.45/NetAloLite-Dev-2.3.45-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite-Dev/2.3.45/NetAloLite-Dev-2.3.45-sources.jar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite-Dev/2.3.45/NetAloLite-Dev-2.3.45.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite-Dev/2.3.45/NetAloLite-Dev-2.3.45.aar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite-Dev/2.3.45/NetAloLite-Dev-2.3.45.module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite-Dev/2.3.45/NetAloLite-Dev-2.3.45.module.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite-Dev/2.3.45/NetAloLite-Dev-2.3.45.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite-Dev/2.3.45/NetAloLite-Dev-2.3.45.pom.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite/2.3.45/NetAloLite-2.3.45-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite/2.3.45/NetAloLite-2.3.45-sources.jar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite/2.3.45/NetAloLite-2.3.45.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite/2.3.45/NetAloLite-2.3.45.aar.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite/2.3.45/NetAloLite-2.3.45.module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite/2.3.45/NetAloLite-2.3.45.module.asc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite/2.3.45/NetAloLite-2.3.45.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite/2.3.45/NetAloLite-2.3.45.pom.asc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NetAloSDK.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat-Dev/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat-Dev/maven-metadata-local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloBaseChat/maven-metadata-local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull-Dev/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull-Dev/maven-metadata-local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloFull/maven-metadata-local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite-Dev/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite-Dev/maven-metadata-local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NetAloSDK/vn/netacom/NetAloLite/maven-metadata-local.xml" afterDir="false" />
-    </list>
+    <list default="true" id="acfba27a-9562-4f8c-b86e-3e01b6f45215" name="Default Changelist" comment="update version 2.3.46." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +12,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b3856243-f2cb-4cc3-a41c-a44556b61a72" />
+        <option name="url" value="https://github.com/Netacom-NetAlo/NetaloSDKs-Android.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="268xloJute820j4WQ1oFMtkiD0G" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
