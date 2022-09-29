@@ -164,6 +164,13 @@
           }
         },
         {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp-tls",
+          "version": {
+            "requires": "4.10.0"
+          }
+        },
+        {
           "group": "org.conscrypt",
           "module": "conscrypt-android",
           "version": {
@@ -356,28 +363,28 @@
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         }
       ],
@@ -385,11 +392,11 @@
         {
           "name": "NetAloBaseChat-Dev-2.5.3.aar",
           "url": "NetAloBaseChat-Dev-2.5.3.aar",
-          "size": 2807370,
-          "sha512": "25109fa2c6f9d5c52a0913e05884d4a26c7e032ab0c207da2b7e31e995685f451fcac63514d84fb0ca66cc89398e564275c2fc85a9a83fb1beb01ee4ad69a73d",
-          "sha256": "c8a0762ff6b5c582fcb158b0ba9e3e39b685c9c58cf531e742d87bf1d6a8d5de",
-          "sha1": "dc865c6991ee32bfd784c776c2bc088ea3f63db7",
-          "md5": "c0d426e5f085ef5158b924040cff2c2e"
+          "size": 2812339,
+          "sha512": "a98fd274b78f482dad25c621a9cf5191d7510a81bca082b00d23f86b158c01dc82fd9086614312b6b83d4b8105916d7e9ea1f5497c8e330a69e7e69b82011976",
+          "sha256": "aa2ec208f29052b2d1b08c3ce01e7aaa2365c1fe6cb83ee0ee206f2a3f8c814e",
+          "sha1": "f3eda305fd44c5ec1bcbe84f372e679beb08bbf1",
+          "md5": "b409d2b9e147474974f31f3d9d062fd8"
         }
       ]
     },
@@ -550,6 +557,13 @@
           }
         },
         {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp-tls",
+          "version": {
+            "requires": "4.10.0"
+          }
+        },
+        {
           "group": "org.conscrypt",
           "module": "conscrypt-android",
           "version": {
@@ -742,28 +756,28 @@
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
@@ -778,11 +792,11 @@
         {
           "name": "NetAloBaseChat-Dev-2.5.3.aar",
           "url": "NetAloBaseChat-Dev-2.5.3.aar",
-          "size": 2807370,
-          "sha512": "25109fa2c6f9d5c52a0913e05884d4a26c7e032ab0c207da2b7e31e995685f451fcac63514d84fb0ca66cc89398e564275c2fc85a9a83fb1beb01ee4ad69a73d",
-          "sha256": "c8a0762ff6b5c582fcb158b0ba9e3e39b685c9c58cf531e742d87bf1d6a8d5de",
-          "sha1": "dc865c6991ee32bfd784c776c2bc088ea3f63db7",
-          "md5": "c0d426e5f085ef5158b924040cff2c2e"
+          "size": 2812339,
+          "sha512": "a98fd274b78f482dad25c621a9cf5191d7510a81bca082b00d23f86b158c01dc82fd9086614312b6b83d4b8105916d7e9ea1f5497c8e330a69e7e69b82011976",
+          "sha256": "aa2ec208f29052b2d1b08c3ce01e7aaa2365c1fe6cb83ee0ee206f2a3f8c814e",
+          "sha1": "f3eda305fd44c5ec1bcbe84f372e679beb08bbf1",
+          "md5": "b409d2b9e147474974f31f3d9d062fd8"
         }
       ]
     }

@@ -55,28 +55,28 @@
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
@@ -91,11 +91,11 @@
         {
           "name": "NetAloLite-Dev-2.5.3.aar",
           "url": "NetAloLite-Dev-2.5.3.aar",
-          "size": 4089827,
-          "sha512": "7c2e830699350a56d198d14abcfa9f11b69d22c350ea6352f47fd0ba92293bde057098cdfe498fdeb02ee76e6122ff137e918769da50000a9f38b2e278f514b4",
-          "sha256": "8a0772cbef7b9b04063bdc05c6a58c095b0007d193bd7bb83dc7e87fdd4b9b53",
-          "sha1": "dbc8a61ab38e99c9934a27eef3a6ff19f20ab460",
-          "md5": "75c1ff920cef2e3678e6bb950c727cb3"
+          "size": 4136388,
+          "sha512": "ba0689e06b430a343ebe9421a64562628bfe4060bf551e7a953f0dc7068d9ff984f0165fd3cb4ecaad4114b6be04f4fb720166767413b386e493a4784250e4dc",
+          "sha256": "0b7a5d7ff6b3470ba8d2d2622a1d5446b288c074b358a2aa4966b01d4a5ecce7",
+          "sha1": "9422595b5c6133b76ed136acb2550fc49075bdbc",
+          "md5": "46a5b1957c9f9140da8f74ae2689d30e"
         }
       ]
     },
@@ -147,28 +147,28 @@
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.2.2"
+            "requires": "7.3.0"
           }
         },
         {
@@ -218,11 +218,11 @@
         {
           "name": "NetAloLite-Dev-2.5.3.aar",
           "url": "NetAloLite-Dev-2.5.3.aar",
-          "size": 4089827,
-          "sha512": "7c2e830699350a56d198d14abcfa9f11b69d22c350ea6352f47fd0ba92293bde057098cdfe498fdeb02ee76e6122ff137e918769da50000a9f38b2e278f514b4",
-          "sha256": "8a0772cbef7b9b04063bdc05c6a58c095b0007d193bd7bb83dc7e87fdd4b9b53",
-          "sha1": "dbc8a61ab38e99c9934a27eef3a6ff19f20ab460",
-          "md5": "75c1ff920cef2e3678e6bb950c727cb3"
+          "size": 4136388,
+          "sha512": "ba0689e06b430a343ebe9421a64562628bfe4060bf551e7a953f0dc7068d9ff984f0165fd3cb4ecaad4114b6be04f4fb720166767413b386e493a4784250e4dc",
+          "sha256": "0b7a5d7ff6b3470ba8d2d2622a1d5446b288c074b358a2aa4966b01d4a5ecce7",
+          "sha1": "9422595b5c6133b76ed136acb2550fc49075bdbc",
+          "md5": "46a5b1957c9f9140da8f74ae2689d30e"
         }
       ]
     }
