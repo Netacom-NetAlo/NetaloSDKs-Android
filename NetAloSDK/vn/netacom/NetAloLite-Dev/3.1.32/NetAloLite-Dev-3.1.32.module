@@ -45,38 +45,38 @@
           }
         },
         {
-          "group": "org.webrtc",
-          "module": "google-webrtc",
+          "group": "io.livekit",
+          "module": "livekit-android",
           "version": {
-            "requires": "1.0.32006"
+            "requires": "1.1.4"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
@@ -91,11 +91,11 @@
         {
           "name": "NetAloLite-Dev-3.1.32.aar",
           "url": "NetAloLite-Dev-3.1.32.aar",
-          "size": 4153060,
-          "sha512": "d08da049004b010c57e1bd7f8191c9da8aab4f343ada155adccbe3b5979554da82358594d4ee35ae5807abb30307a4d48a00ff70788acbf0a6bd1a48cee8a71f",
-          "sha256": "37f2b84adad96c3ecebf9ed68ae064ac93032e036f91af4946047a10028a4ded",
-          "sha1": "657b94944581d46a3f8b640572df45836fa27138",
-          "md5": "1b3d0221eec8878c8ca5efb0e5780aa5"
+          "size": 4149478,
+          "sha512": "2eb0ad63f573388832f44f08e553670e9ef6a61ee1f126ecd6d4f887afcf02c79709d2ddd22b55ac9f714a5c7e2ff68f2fa51add05e645afb3e9165191fbfd00",
+          "sha256": "38cea3ee86ef2a83cea7125d6b7de7dea407d0f9a2bc36bfcbfe841c03654bed",
+          "sha1": "bb3e27445d46c2ddd8631517fb19ab3ebb3e23ef",
+          "md5": "02e45c211c70d8b939962d301ce919e1"
         }
       ]
     },
@@ -137,38 +137,38 @@
           }
         },
         {
-          "group": "org.webrtc",
-          "module": "google-webrtc",
+          "group": "io.livekit",
+          "module": "livekit-android",
           "version": {
-            "requires": "1.0.32006"
+            "requires": "1.1.4"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
@@ -189,7 +189,7 @@
           "group": "io.socket",
           "module": "socket.io-client",
           "version": {
-            "requires": "1.0.1"
+            "requires": "1.0.2"
           }
         },
         {
@@ -218,11 +218,11 @@
         {
           "name": "NetAloLite-Dev-3.1.32.aar",
           "url": "NetAloLite-Dev-3.1.32.aar",
-          "size": 4153060,
-          "sha512": "d08da049004b010c57e1bd7f8191c9da8aab4f343ada155adccbe3b5979554da82358594d4ee35ae5807abb30307a4d48a00ff70788acbf0a6bd1a48cee8a71f",
-          "sha256": "37f2b84adad96c3ecebf9ed68ae064ac93032e036f91af4946047a10028a4ded",
-          "sha1": "657b94944581d46a3f8b640572df45836fa27138",
-          "md5": "1b3d0221eec8878c8ca5efb0e5780aa5"
+          "size": 4149478,
+          "sha512": "2eb0ad63f573388832f44f08e553670e9ef6a61ee1f126ecd6d4f887afcf02c79709d2ddd22b55ac9f714a5c7e2ff68f2fa51add05e645afb3e9165191fbfd00",
+          "sha256": "38cea3ee86ef2a83cea7125d6b7de7dea407d0f9a2bc36bfcbfe841c03654bed",
+          "sha1": "bb3e27445d46c2ddd8631517fb19ab3ebb3e23ef",
+          "md5": "02e45c211c70d8b939962d301ce919e1"
         }
       ]
     }

@@ -363,28 +363,28 @@
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         }
       ],
@@ -392,11 +392,11 @@
         {
           "name": "NetAloBaseChat-3.1.32.aar",
           "url": "NetAloBaseChat-3.1.32.aar",
-          "size": 2817239,
-          "sha512": "b7e1cecf41fbf58157dcb3fa802b6b46a6c67fde7d87b6d3f41a6ab4941f69e0d40ae56c6c8728fe7353d667fea16b19c5e2d8fe0739deac17a5256b1cd626f7",
-          "sha256": "343e64cdc990afe697090bb392883aaef792e2b38fd9cfd525ef09c8e5a692e6",
-          "sha1": "ceb5c55477fe3309465b4aabbfd00b54f34e2a9d",
-          "md5": "116528a4933041e2b778b107a8467db5"
+          "size": 2819652,
+          "sha512": "1cb567ab8a64ed24cb3038f3832f73b0c95240b5dd71bbeab0c407cbe8454d21170c65bb2f34a94f6754ca825c7ebd8b14d8edbc9d77520aeb8e9dd7231e182d",
+          "sha256": "9fd08ee2e816750e4a927a211e61237dc22f06279bb94a071cf308d45e5ac716",
+          "sha1": "be37fa3667638d488611d5194ce96923455be156",
+          "md5": "72ba04a1d6d324217c1bedd087644f9a"
         }
       ]
     },
@@ -756,28 +756,28 @@
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.3.0"
+            "requires": "7.3.1"
           }
         },
         {
@@ -792,11 +792,11 @@
         {
           "name": "NetAloBaseChat-3.1.32.aar",
           "url": "NetAloBaseChat-3.1.32.aar",
-          "size": 2817239,
-          "sha512": "b7e1cecf41fbf58157dcb3fa802b6b46a6c67fde7d87b6d3f41a6ab4941f69e0d40ae56c6c8728fe7353d667fea16b19c5e2d8fe0739deac17a5256b1cd626f7",
-          "sha256": "343e64cdc990afe697090bb392883aaef792e2b38fd9cfd525ef09c8e5a692e6",
-          "sha1": "ceb5c55477fe3309465b4aabbfd00b54f34e2a9d",
-          "md5": "116528a4933041e2b778b107a8467db5"
+          "size": 2819652,
+          "sha512": "1cb567ab8a64ed24cb3038f3832f73b0c95240b5dd71bbeab0c407cbe8454d21170c65bb2f34a94f6754ca825c7ebd8b14d8edbc9d77520aeb8e9dd7231e182d",
+          "sha256": "9fd08ee2e816750e4a927a211e61237dc22f06279bb94a071cf308d45e5ac716",
+          "sha1": "be37fa3667638d488611d5194ce96923455be156",
+          "md5": "72ba04a1d6d324217c1bedd087644f9a"
         }
       ]
     }
