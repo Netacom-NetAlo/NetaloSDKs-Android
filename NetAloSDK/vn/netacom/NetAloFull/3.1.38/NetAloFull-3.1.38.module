@@ -1,0 +1,370 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "vn.netacom",
+    "module": "NetAloFull",
+    "version": "3.1.38",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "NetAloProdReleaseVariantNetAloProdReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "vn.netacom",
+          "module": "NetAloBaseChat",
+          "version": {
+            "requires": "3.1.38"
+          }
+        },
+        {
+          "group": "vn.netacom",
+          "module": "NetAloLite",
+          "version": {
+            "requires": "3.1.38"
+          }
+        },
+        {
+          "group": "androidx.navigation",
+          "module": "navigation-fragment-ktx",
+          "version": {
+            "requires": "2.5.0"
+          }
+        },
+        {
+          "group": "androidx.navigation",
+          "module": "navigation-ui-ktx",
+          "version": {
+            "requires": "2.5.0"
+          }
+        },
+        {
+          "group": "com.github.chrisbanes",
+          "module": "PhotoView",
+          "version": {
+            "requires": "2.3.0"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer",
+          "version": {
+            "requires": "2.18.1"
+          }
+        },
+        {
+          "group": "com.github.MikeOrtiz",
+          "module": "TouchImageView",
+          "version": {
+            "requires": "3.1.1"
+          }
+        },
+        {
+          "group": "org.jsoup",
+          "module": "jsoup",
+          "version": {
+            "requires": "1.14.3"
+          }
+        },
+        {
+          "group": "com.google.zxing",
+          "module": "core",
+          "version": {
+            "requires": "3.4.1"
+          }
+        },
+        {
+          "group": "com.github.fondesa",
+          "module": "kpermissions",
+          "version": {
+            "requires": "3.3.0"
+          }
+        },
+        {
+          "group": "io.livekit",
+          "module": "livekit-android",
+          "version": {
+            "requires": "1.1.4"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-auth",
+          "version": {
+            "requires": "20.1.0"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-auth-api-phone",
+          "version": {
+            "requires": "18.0.1"
+          }
+        },
+        {
+          "group": "com.hbb20",
+          "module": "ccp",
+          "version": {
+            "requires": "2.6.0"
+          }
+        },
+        {
+          "group": "com.airbnb.android",
+          "module": "lottie",
+          "version": {
+            "requires": "5.2.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "NetAloFull-3.1.38.aar",
+          "url": "NetAloFull-3.1.38.aar",
+          "size": 10139005,
+          "sha512": "337c662b194f6497e9555d28b689cc7f05b18b78dec50a27604632a12a0232604d2f474fd3999accc6925a1f27605eb21a8aeae1e3b51de283d3b41bdf8c3be6",
+          "sha256": "8d6bebfb979701b14a9f2e67ca28ad249f06fa8eeadc0c2bf516e1ef6f877aec",
+          "sha1": "18b117b191280d8f199e9693808b033a064713be",
+          "md5": "92aebaa855738d43119e36355f1183bf"
+        }
+      ]
+    },
+    {
+      "name": "NetAloProdReleaseVariantNetAloProdReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-parcelize-runtime",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "vn.netacom",
+          "module": "NetAloBaseChat",
+          "version": {
+            "requires": "3.1.38"
+          }
+        },
+        {
+          "group": "vn.netacom",
+          "module": "NetAloLite",
+          "version": {
+            "requires": "3.1.38"
+          }
+        },
+        {
+          "group": "androidx.navigation",
+          "module": "navigation-fragment-ktx",
+          "version": {
+            "requires": "2.5.0"
+          }
+        },
+        {
+          "group": "androidx.navigation",
+          "module": "navigation-ui-ktx",
+          "version": {
+            "requires": "2.5.0"
+          }
+        },
+        {
+          "group": "com.github.chrisbanes",
+          "module": "PhotoView",
+          "version": {
+            "requires": "2.3.0"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer",
+          "version": {
+            "requires": "2.18.1"
+          }
+        },
+        {
+          "group": "com.github.MikeOrtiz",
+          "module": "TouchImageView",
+          "version": {
+            "requires": "3.1.1"
+          }
+        },
+        {
+          "group": "org.jsoup",
+          "module": "jsoup",
+          "version": {
+            "requires": "1.14.3"
+          }
+        },
+        {
+          "group": "com.google.zxing",
+          "module": "core",
+          "version": {
+            "requires": "3.4.1"
+          }
+        },
+        {
+          "group": "com.github.fondesa",
+          "module": "kpermissions",
+          "version": {
+            "requires": "3.3.0"
+          }
+        },
+        {
+          "group": "io.livekit",
+          "module": "livekit-android",
+          "version": {
+            "requires": "1.1.4"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-auth",
+          "version": {
+            "requires": "20.1.0"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-auth-api-phone",
+          "version": {
+            "requires": "18.0.1"
+          }
+        },
+        {
+          "group": "com.hbb20",
+          "module": "ccp",
+          "version": {
+            "requires": "2.6.0"
+          }
+        },
+        {
+          "group": "com.airbnb.android",
+          "module": "lottie",
+          "version": {
+            "requires": "5.2.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "hilt-android",
+          "version": {
+            "requires": "2.42"
+          }
+        },
+        {
+          "group": "androidx.hilt",
+          "module": "hilt-work",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "io.michaelrocks",
+          "module": "libphonenumber-android",
+          "version": {
+            "requires": "8.12.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "NetAloFull-3.1.38.aar",
+          "url": "NetAloFull-3.1.38.aar",
+          "size": 10139005,
+          "sha512": "337c662b194f6497e9555d28b689cc7f05b18b78dec50a27604632a12a0232604d2f474fd3999accc6925a1f27605eb21a8aeae1e3b51de283d3b41bdf8c3be6",
+          "sha256": "8d6bebfb979701b14a9f2e67ca28ad249f06fa8eeadc0c2bf516e1ef6f877aec",
+          "sha1": "18b117b191280d8f199e9693808b033a064713be",
+          "md5": "92aebaa855738d43119e36355f1183bf"
+        }
+      ]
+    }
+  ]
+}
