@@ -1,0 +1,230 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "vn.netacom",
+    "module": "NetAloLite",
+    "version": "3.1.41",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "NetAloProdReleaseVariantNetAloProdReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.realm",
+          "module": "realm-android-library",
+          "version": {
+            "requires": "10.11.0"
+          }
+        },
+        {
+          "group": "io.realm",
+          "module": "realm-android-kotlin-extensions",
+          "version": {
+            "requires": "10.11.0"
+          }
+        },
+        {
+          "group": "io.realm",
+          "module": "realm-annotations",
+          "version": {
+            "requires": "10.11.0"
+          }
+        },
+        {
+          "group": "io.livekit",
+          "module": "livekit-android",
+          "version": {
+            "requires": "1.1.4"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "NetAloLite-3.1.41.aar",
+          "url": "NetAloLite-3.1.41.aar",
+          "size": 4172618,
+          "sha512": "c36a3d8ab72c868563dd8616ac3ba0399f9a34085e8d3603d970bcb4d7500b24587ff43185e9a2c1b0afed79983259d45440411def1594d5dae5dd86dd025ebf",
+          "sha256": "85d03881706f90da0f1f42d877b8aa7f7e585f07bc67c7eeb3390fb245b1b0a9",
+          "sha1": "68e652659e3f5fd59f9b955ec0ca4967f5d56fc1",
+          "md5": "1ef4603fac558bbe44fa754544be7b17"
+        }
+      ]
+    },
+    {
+      "name": "NetAloProdReleaseVariantNetAloProdReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-parcelize-runtime",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "io.realm",
+          "module": "realm-android-library",
+          "version": {
+            "requires": "10.11.0"
+          }
+        },
+        {
+          "group": "io.realm",
+          "module": "realm-android-kotlin-extensions",
+          "version": {
+            "requires": "10.11.0"
+          }
+        },
+        {
+          "group": "io.realm",
+          "module": "realm-annotations",
+          "version": {
+            "requires": "10.11.0"
+          }
+        },
+        {
+          "group": "io.livekit",
+          "module": "livekit-android",
+          "version": {
+            "requires": "1.1.4"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "vn.netacom",
+          "module": "NetAloBaseChat",
+          "version": {
+            "requires": "3.1.41"
+          }
+        },
+        {
+          "group": "io.socket",
+          "module": "socket.io-client",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "io.michaelrocks",
+          "module": "libphonenumber-android",
+          "version": {
+            "requires": "8.12.22"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "hilt-android",
+          "version": {
+            "requires": "2.42"
+          }
+        },
+        {
+          "group": "androidx.hilt",
+          "module": "hilt-work",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "NetAloLite-3.1.41.aar",
+          "url": "NetAloLite-3.1.41.aar",
+          "size": 4172618,
+          "sha512": "c36a3d8ab72c868563dd8616ac3ba0399f9a34085e8d3603d970bcb4d7500b24587ff43185e9a2c1b0afed79983259d45440411def1594d5dae5dd86dd025ebf",
+          "sha256": "85d03881706f90da0f1f42d877b8aa7f7e585f07bc67c7eeb3390fb245b1b0a9",
+          "sha1": "68e652659e3f5fd59f9b955ec0ca4967f5d56fc1",
+          "md5": "1ef4603fac558bbe44fa754544be7b17"
+        }
+      ]
+    }
+  ]
+}
