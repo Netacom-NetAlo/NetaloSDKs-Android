@@ -1,0 +1,362 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "vn.chat-sdk",
+    "module": "chatsdk-base",
+    "version": "1.0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0-rc-2"
+    }
+  },
+  "variants": [
+    {
+      "name": "HuraProdReleaseVariantHuraProdReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "chatsdk-base-1.0.3.aar",
+          "url": "chatsdk-base-1.0.3.aar",
+          "size": 954043,
+          "sha512": "8e10a5556c6c18ea189550e7e9a8a7f2b238e2ef90f0ba46867b7cae7edfc601dc0a9d59a9e4054036279ed361dac8b45d8f0c14a5fd1ed6afb8b415b072aa0f",
+          "sha256": "0e6b68480a305d24e2ad5ffecaa37506e26976bb2bcf71473ee82c49dc0410dd",
+          "sha1": "2670b2f4c3f96a5dd3f903c49b7d6a268d885844",
+          "md5": "93e4f722f00e09e14029b350f4a84222"
+        }
+      ]
+    },
+    {
+      "name": "HuraProdReleaseVariantHuraProdReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.compose",
+          "module": "compose-bom",
+          "version": {
+            "requires": "2023.01.00"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.9.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "retrofit",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.10.0"
+          }
+        },
+        {
+          "group": "com.github.skydoves",
+          "module": "sandwich",
+          "version": {
+            "requires": "1.3.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.5.0-RC"
+          }
+        },
+        {
+          "group": "com.jakewharton.retrofit",
+          "module": "retrofit2-kotlinx-serialization-converter",
+          "version": {
+            "requires": "0.8.0"
+          }
+        },
+        {
+          "group": "io.socket",
+          "module": "socket.io-client",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "io.github.crow-misia.sdp",
+          "module": "sdp",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui"
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui-tooling",
+          "version": {
+            "requires": "1.3.2"
+          }
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui-tooling-preview",
+          "version": {
+            "requires": "1.3.2"
+          }
+        },
+        {
+          "group": "androidx.compose.material3",
+          "module": "material3"
+        },
+        {
+          "group": "androidx.compose.runtime",
+          "module": "runtime"
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout-compose",
+          "version": {
+            "requires": "1.1.0-alpha05"
+          }
+        },
+        {
+          "group": "androidx.palette",
+          "module": "palette-ktx",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.paging",
+          "module": "paging-compose",
+          "version": {
+            "requires": "1.0.0-alpha17"
+          }
+        },
+        {
+          "group": "androidx.compose.compiler",
+          "module": "compiler",
+          "version": {
+            "requires": "1.3.2"
+          }
+        },
+        {
+          "group": "androidx.activity",
+          "module": "activity-compose",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "androidx.compose.foundation",
+          "module": "foundation"
+        },
+        {
+          "group": "androidx.navigation",
+          "module": "navigation-compose",
+          "version": {
+            "requires": "2.5.3"
+          }
+        },
+        {
+          "group": "androidx.customview",
+          "module": "customview",
+          "version": {
+            "requires": "1.2.0-alpha02"
+          }
+        },
+        {
+          "group": "androidx.customview",
+          "module": "customview-poolingcontainer",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "io.coil-kt",
+          "module": "coil",
+          "version": {
+            "requires": "2.2.2"
+          }
+        },
+        {
+          "group": "io.coil-kt",
+          "module": "coil-svg",
+          "version": {
+            "requires": "2.2.2"
+          }
+        },
+        {
+          "group": "io.coil-kt",
+          "module": "coil-video",
+          "version": {
+            "requires": "2.2.2"
+          }
+        },
+        {
+          "group": "io.coil-kt",
+          "module": "coil-compose",
+          "version": {
+            "requires": "2.2.2"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-viewmodel-ktx",
+          "version": {
+            "requires": "2.6.0-alpha04"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-service",
+          "version": {
+            "requires": "2.6.0-alpha04"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-viewmodel-compose",
+          "version": {
+            "requires": "2.6.0-alpha04"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-runtime-compose",
+          "version": {
+            "requires": "2.6.0-alpha04"
+          }
+        },
+        {
+          "group": "androidx.work",
+          "module": "work-runtime-ktx",
+          "version": {
+            "requires": "2.8.0-rc01"
+          }
+        },
+        {
+          "group": "androidx.concurrent",
+          "module": "concurrent-futures-ktx",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "androidx.datastore",
+          "module": "datastore",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.datastore",
+          "module": "datastore-preferences",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-camera2",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-video",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-view",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-lifecycle",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "io.livekit",
+          "module": "livekit-android",
+          "version": {
+            "requires": "1.1.6"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "chatsdk-base-1.0.3.aar",
+          "url": "chatsdk-base-1.0.3.aar",
+          "size": 954043,
+          "sha512": "8e10a5556c6c18ea189550e7e9a8a7f2b238e2ef90f0ba46867b7cae7edfc601dc0a9d59a9e4054036279ed361dac8b45d8f0c14a5fd1ed6afb8b415b072aa0f",
+          "sha256": "0e6b68480a305d24e2ad5ffecaa37506e26976bb2bcf71473ee82c49dc0410dd",
+          "sha1": "2670b2f4c3f96a5dd3f903c49b7d6a268d885844",
+          "md5": "93e4f722f00e09e14029b350f4a84222"
+        }
+      ]
+    }
+  ]
+}
