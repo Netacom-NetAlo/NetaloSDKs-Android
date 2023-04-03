@@ -392,11 +392,11 @@
         {
           "name": "NetAloBaseChat-Dev-3.1.47.aar",
           "url": "NetAloBaseChat-Dev-3.1.47.aar",
-          "size": 2808160,
-          "sha512": "c0c01d7e938a050a52b5e1bf3d0a89932420832d5204b4e2f1cab79fa5f2980f52054a24d10633eefce4a08e05c528da00c84b725ff2ce3c5b36a42f7b561553",
-          "sha256": "95a4c3dd6323d001122ca9a7d15e2e92588763b72ec6bd1451c175c534f1228f",
-          "sha1": "283a626191cd4f26cb686734bf8ed25169ff0ed1",
-          "md5": "dd7f938a2e80bda1140597161e628652"
+          "size": 2808116,
+          "sha512": "14b17271042b6490a49f33ab6cf1080e3f9b2c7d6c6e9c38878e177a9003f132be5f9fb3ac9e50924fc05ea1e0f0e42eb556fcb31485d0d483569f4e5d617054",
+          "sha256": "4cdda7e03c0f6e4ebfa41696708b004de5e09f7b02ad0d423f1db3104839059b",
+          "sha1": "f2fed4b86021909a1608b97921668b2b80bfaf29",
+          "md5": "5af8846aa6606d970e6b4656aa2cb778"
         }
       ]
     },
@@ -792,11 +792,11 @@
         {
           "name": "NetAloBaseChat-Dev-3.1.47.aar",
           "url": "NetAloBaseChat-Dev-3.1.47.aar",
-          "size": 2808160,
-          "sha512": "c0c01d7e938a050a52b5e1bf3d0a89932420832d5204b4e2f1cab79fa5f2980f52054a24d10633eefce4a08e05c528da00c84b725ff2ce3c5b36a42f7b561553",
-          "sha256": "95a4c3dd6323d001122ca9a7d15e2e92588763b72ec6bd1451c175c534f1228f",
-          "sha1": "283a626191cd4f26cb686734bf8ed25169ff0ed1",
-          "md5": "dd7f938a2e80bda1140597161e628652"
+          "size": 2808116,
+          "sha512": "14b17271042b6490a49f33ab6cf1080e3f9b2c7d6c6e9c38878e177a9003f132be5f9fb3ac9e50924fc05ea1e0f0e42eb556fcb31485d0d483569f4e5d617054",
+          "sha256": "4cdda7e03c0f6e4ebfa41696708b004de5e09f7b02ad0d423f1db3104839059b",
+          "sha1": "f2fed4b86021909a1608b97921668b2b80bfaf29",
+          "md5": "5af8846aa6606d970e6b4656aa2cb778"
         }
       ]
     }
