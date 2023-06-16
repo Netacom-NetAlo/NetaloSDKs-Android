@@ -3,11 +3,11 @@
   <groupId>vn.netacom</groupId>
   <artifactId>NetAloBaseChat-Dev</artifactId>
   <versioning>
-    <latest>3.1.52</latest>
-    <release>3.1.52</release>
+    <latest>3.1.53</latest>
+    <release>3.1.53</release>
     <versions>
-      <version>3.1.52</version>
+      <version>3.1.53</version>
     </versions>
-    <lastUpdated>20230426063646</lastUpdated>
+    <lastUpdated>20230616051755</lastUpdated>
   </versioning>
 </metadata>
